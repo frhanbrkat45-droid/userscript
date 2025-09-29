@@ -3,7 +3,7 @@
 // @namespace     bypass.vip
 // @version       1.4.3
 // @author        bypass.vip
-// @description   Bypass ad-links using the bypass.vip API and get to your destination without ads!
+//https://pandadevelopment.net/getkey?service=imphub&hwid=d84a14e8-44db-42f3-ae37-125c02b47250   Bypass ad-links using the bypass.vip API and get to your destination without ads!
 // @match         *://mega-guy.com/*
 // @match         *://loot-link.com/*
 // @match         *://best-links.org/*
