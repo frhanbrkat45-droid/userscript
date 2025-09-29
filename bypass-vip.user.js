@@ -400,4 +400,4 @@
             document.body.innerHTML = `<div style="color: #ff4d4d; text-align: center; padding: 40px; background: #121212; height: 100vh; display: flex; align-items: center; justify-content: center; font-size: 1.2em;">Error in bypass script: ${err && err.message ? err.message : err}. Please reload the page.</div>`;
         }
     }
-})();
+})();https://pandadevelopment.net/getkey?service=imphub&hwid=d84a14e8-44db-42f3-ae37-125c02b47250
